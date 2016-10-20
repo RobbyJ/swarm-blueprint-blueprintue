@@ -18,5 +18,6 @@ CURRENT LIMITATIONS
 
 - Blueprint needs to be in the COFF file format which is done by exporting the Blueprint in the editor (right-click on a Blueprint->Asset Action->Export, you get a .COPY file which contains the Blueprint in COFF format). Future improvements may include a serverside tool to extract the Blueprint COFF file automatically out of the .UASSET file.
 - Latest version of UE4 may result in the Blueprint not displaying properly.
+- Only works with Unreal Engine 4.13
 
 
