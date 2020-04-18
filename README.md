@@ -2,9 +2,9 @@
 
 AUTHORS
 
-Developed at NHTV Breda University of Applied Sciences at IGAD (International Game Architecture and Design) by:
+Developed at Games @ Breda University of Applied Sciences by:
 
-Resul Çelik (Resul_Celik@hotmail.com), Robbie Grigg (grigg.r@nhtv.nl)
+Resul Çelik (Resul_Celik@hotmail.com), Robbie Grigg (grigg.r@buas.nl)
 
 DESCRIPTION
 
